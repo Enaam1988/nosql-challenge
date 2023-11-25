@@ -29,28 +29,4 @@ The project is divided into three main parts:
 - MongoDB installed and running.
 - Python environment with Jupyter Notebook.
 
-### Setup Instructions
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/nosql-challenge.git
-    cd nosql-challenge
-    ```
-
-2. Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open Jupyter notebooks:
-
-    ```bash
-    jupyter notebook
-    ```
-
-4. Run the notebooks in the following order:
-   - `NoSQL_setup_starter.ipynb`
-   - `NoSQL_analysis_starter.ipynb`
 
